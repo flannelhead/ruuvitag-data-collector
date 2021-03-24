@@ -1,0 +1,4 @@
+bleson~=0.1.8
+influxdb-client~=1.15.0
+PyYAML~=5.4.1
+Rx~=3.1.1

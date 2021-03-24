@@ -1,0 +1,7 @@
+macs:
+  - AA:BB:CC:DD:EE:FF
+  - 11:22:33:44:55:66
+influxdb:
+  url: your-influxdb-url-here
+  org: your-org-here
+  token: your-token-here
